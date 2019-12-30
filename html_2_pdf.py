@@ -18,7 +18,8 @@ import sys # This will help me get the arguments passed from the command line
 
 def main():
 	print("Hello from main")
-	print("My argument at 1 is %s" % (sys.argv[1]))
+	print("My argument at 1 is %s" % (sys.argv[1])) 
+	
 
 
 if __name__ == "__main__":
